@@ -1,4 +1,4 @@
-package com.HiveUDF.Containsstring;
+package com.hiveudf.containsstring;
 
 import java.util.ArrayList;
 import org.apache.hadoop.hive.ql.exec.UDFArgumentException;
