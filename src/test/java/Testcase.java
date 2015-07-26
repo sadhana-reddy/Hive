@@ -1,4 +1,4 @@
-package com.hiveudf.containsstring;
+package com.sadhana.hiveudf;
 
 import java.util.ArrayList;
 import org.apache.hadoop.hive.serde2.objectinspector.ObjectInspector;
