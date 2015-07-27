@@ -1,19 +1,19 @@
 # Hive UDF
 
-DESCRIPTION
+# DESCRIPTION
 
 The function checks for a given string in an a array of strings. It takes two arguments as input - an array and a string, returns true if the given string exists and returns false otherwise.
 
 
-COMPILE
+# COMPILE
 
-# compile the project using 
+compile the project using 
 
 ==> mvn compile 
 
-BUILD
+# BUILD
 
-# build the project using 
+build the project using 
 
 ==> mvn package
 
